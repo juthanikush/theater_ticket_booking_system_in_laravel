@@ -1,0 +1,17 @@
+.mb-17{
+    margin-bottom: 17px;
+    width: 100%;
+    margin-top: 15px;
+}
+.mt5{
+    margin-top: 8px;
+}
+.bd{
+    border: 3px black solid;
+    background-color: red;
+    color: white;
+}
+.imgbaner{
+    margin-right: 20px;
+    margin-left: -5px;
+}
